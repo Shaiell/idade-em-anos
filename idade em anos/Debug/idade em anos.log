@@ -1,0 +1,17 @@
+﻿  idade em anos.cpp
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(97): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(97): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(97): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(97): note: esse argumento é usado como um tamanho do buffer
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(99): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(99): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(99): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(99): note: esse argumento é usado como um tamanho do buffer
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(103): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(103): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(103): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(103): note: esse argumento é usado como um tamanho do buffer
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(116): error C2181: else inválido sem if correspondente
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(120): error C2181: else inválido sem if correspondente
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(124): error C2181: else inválido sem if correspondente
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\idade em anos\idade em anos\idade em anos.cpp(106): fatal error C1075: '{': nenhum token correspondente encontrado
